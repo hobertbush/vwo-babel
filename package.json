@@ -1,0 +1,19 @@
+{
+  "name": "vwo-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathantcallahan/vwo-babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathantcallahan/vwo-babel/issues"
+  },
+  "homepage": "https://github.com/jonathantcallahan/vwo-babel#readme"
+}
