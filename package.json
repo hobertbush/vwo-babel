@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jonathantcallahan/vwo-babel#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "node-cmd": "^3.0.0"
   }
 }
